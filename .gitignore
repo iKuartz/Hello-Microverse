@@ -1,0 +1,6 @@
+# Ignoring linter files #
+###################
+.hintrc
+.stylelintrc.json
+linters.yml
+test.md
