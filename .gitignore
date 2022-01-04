@@ -1,7 +1,7 @@
 # Ignoring linter files after initial upload #
 ###################
-.hintrc
-.stylelintrc.json
+/.hintrc
+/.stylelintrc.json
 linters.yml
 # Ignoring test.md #
 ###################
